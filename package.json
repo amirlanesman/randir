@@ -1,7 +1,7 @@
 {
   "name": "randir",
   "version": "0.0.1",
-  "description": "",
+  "description": "randomize filenames of files in a directory.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
