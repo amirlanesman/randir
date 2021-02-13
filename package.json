@@ -2,6 +2,7 @@
   "name": "randir",
   "version": "0.0.3",
   "description": "randomize filenames of files in a directory.",
+  "repository": "github:amirlanesman/randir",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
