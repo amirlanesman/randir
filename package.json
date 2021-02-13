@@ -1,0 +1,15 @@
+{
+  "name": "randir",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^9.1.0"
+  },
+  "bin": "./bin/randir"
+}
