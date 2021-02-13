@@ -1,6 +1,6 @@
 {
   "name": "randir",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "randomize filenames of files in a directory.",
   "repository": "github:amirlanesman/randir",
   "main": "index.js",
